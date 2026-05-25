@@ -1,0 +1,521 @@
+{
+  "income": [
+    {
+      "id": 1779131653479,
+      "label": "Salary",
+      "amount": 400,
+      "category": "salary",
+      "date": "2026-05-16"
+    },
+    {
+      "id": 1779131637604,
+      "label": "Salary",
+      "amount": 400,
+      "category": "salary",
+      "date": "2026-05-09"
+    },
+    {
+      "id": 1779131629741,
+      "label": "Salary",
+      "amount": 400,
+      "category": "salary",
+      "date": "2026-05-02"
+    },
+    {
+      "id": 1779131596525,
+      "label": "Salary",
+      "amount": 400,
+      "category": "salary",
+      "date": "2026-04-27"
+    },
+    {
+      "id": 1779131573763,
+      "label": "Salary",
+      "amount": 400,
+      "category": "salary",
+      "date": "2026-04-20"
+    },
+    {
+      "id": 1779131551335,
+      "label": "Salary",
+      "amount": 400,
+      "category": "salary",
+      "date": "2026-04-14"
+    },
+    {
+      "id": 1779131531033,
+      "label": "Print shop work",
+      "amount": 30,
+      "category": "other",
+      "date": "2026-04-07"
+    },
+    {
+      "id": 1779131499402,
+      "label": "Salary",
+      "amount": 400,
+      "category": "salary",
+      "date": "2026-04-03"
+    },
+    {
+      "id": 1779131404505,
+      "label": "Print shop work",
+      "amount": 170,
+      "category": "other",
+      "date": "2026-03-31"
+    },
+    {
+      "id": 1779131351290,
+      "label": "Salary",
+      "amount": 400,
+      "category": "salary",
+      "date": "2026-02-28"
+    },
+    {
+      "id": 1779131334109,
+      "label": "Salary",
+      "amount": 400,
+      "category": "salary",
+      "date": "2026-03-20"
+    },
+    {
+      "id": 1779131285492,
+      "label": "Salary",
+      "amount": 400,
+      "category": "salary",
+      "date": "2026-03-13"
+    },
+    {
+      "id": 1779131273160,
+      "label": "Salary",
+      "amount": 400,
+      "category": "salary",
+      "date": "2026-03-06"
+    },
+    {
+      "id": 1779131243478,
+      "label": "Salary",
+      "amount": 400,
+      "category": "salary",
+      "date": "2026-01-26"
+    },
+    {
+      "id": 1779131224574,
+      "label": "Salary",
+      "amount": 400,
+      "category": "salary",
+      "date": "2026-01-16"
+    },
+    {
+      "id": 1779131210912,
+      "label": "Salary",
+      "amount": 400,
+      "category": "salary",
+      "date": "2026-02-09"
+    },
+    {
+      "id": 1779131169598,
+      "label": "Salary",
+      "amount": 400,
+      "category": "salary",
+      "date": "2026-01-31"
+    },
+    {
+      "id": 1779131149701,
+      "label": "Salary",
+      "amount": 400,
+      "category": "salary",
+      "date": "2026-01-23"
+    },
+    {
+      "id": 1779131131551,
+      "label": "Salary",
+      "amount": 400,
+      "category": "salary",
+      "date": "2026-01-14"
+    },
+    {
+      "id": 1779131111537,
+      "label": "Salary",
+      "amount": 400,
+      "category": "salary",
+      "date": "2026-01-07"
+    },
+    {
+      "id": 1779131058887,
+      "label": "Salary",
+      "amount": 400,
+      "category": "salary",
+      "date": "2025-12-29"
+    },
+    {
+      "id": 1779131044436,
+      "label": "Salary",
+      "amount": 400,
+      "category": "salary",
+      "date": "2025-12-14"
+    },
+    {
+      "id": 1779131021402,
+      "label": "Salary",
+      "amount": 400,
+      "category": "salary",
+      "date": "2025-12-04"
+    },
+    {
+      "id": 1779130989790,
+      "label": "Salary",
+      "amount": 270,
+      "category": "salary",
+      "date": "2025-11-22"
+    },
+    {
+      "id": 1779130959501,
+      "label": "Tip",
+      "amount": 15,
+      "category": "other",
+      "date": "2025-11-17"
+    },
+    {
+      "id": 1779120532305,
+      "label": "Salary",
+      "amount": 220,
+      "category": "salary",
+      "date": "2025-11-11"
+    },
+    {
+      "id": 1779120453190,
+      "label": "Other",
+      "amount": 25,
+      "category": "other",
+      "date": "2025-11-09"
+    },
+    {
+      "id": 1779120422628,
+      "label": "Tip",
+      "amount": 50,
+      "category": "other",
+      "date": "2025-11-07"
+    },
+    {
+      "id": 1779120373258,
+      "label": "Tip",
+      "amount": 30,
+      "category": "other",
+      "date": "2025-11-06"
+    },
+    {
+      "id": 1779120321798,
+      "label": "Salary",
+      "amount": 600,
+      "category": "salary",
+      "date": "2026-11-03"
+    },
+    {
+      "id": 1779120297499,
+      "label": "Tip",
+      "amount": 30,
+      "category": "other",
+      "date": "2025-11-02"
+    },
+    {
+      "id": 1779120262152,
+      "label": "Tip",
+      "amount": 50,
+      "category": "other",
+      "date": "2025-10-31"
+    },
+    {
+      "id": 1779120238098,
+      "label": "Other",
+      "amount": 20,
+      "category": "other",
+      "date": "2025-10-30"
+    },
+    {
+      "id": 1779120193650,
+      "label": "Other",
+      "amount": 40,
+      "category": "other",
+      "date": "2025-10-29"
+    },
+    {
+      "id": 1779120169376,
+      "label": "Tip",
+      "amount": 20,
+      "category": "other",
+      "date": "2025-10-26"
+    },
+    {
+      "id": 1779120094638,
+      "label": "Tip",
+      "amount": 50,
+      "category": "other",
+      "date": "2025-10-24"
+    },
+    {
+      "id": 1779120051787,
+      "label": "Tip",
+      "amount": 50,
+      "category": "other",
+      "date": "2025-10-22"
+    },
+    {
+      "id": 1779120006626,
+      "label": "Tip",
+      "amount": 30,
+      "category": "other",
+      "date": "2025-10-19"
+    },
+    {
+      "id": 1779119956473,
+      "label": "Tip",
+      "amount": 40,
+      "category": "other",
+      "date": "2025-10-17"
+    },
+    {
+      "id": 1779119913542,
+      "label": "Salary",
+      "amount": 310,
+      "category": "salary",
+      "date": "2025-10-13"
+    },
+    {
+      "id": 1779119877700,
+      "label": "Tip",
+      "amount": 30,
+      "category": "other",
+      "date": "2025-10-10"
+    },
+    {
+      "id": 1779119846570,
+      "label": "Salary",
+      "amount": 270,
+      "category": "salary",
+      "date": "2025-10-09"
+    },
+    {
+      "id": 1779119797900,
+      "label": "Tip",
+      "amount": 20,
+      "category": "other",
+      "date": "2025-10-05"
+    },
+    {
+      "id": 1779119764670,
+      "label": "Tip",
+      "amount": 35,
+      "category": "other",
+      "date": "2025-10-03"
+    },
+    {
+      "id": 1779119726653,
+      "label": "Tip",
+      "amount": 40,
+      "category": "other",
+      "date": "2025-10-01"
+    },
+    {
+      "id": 1779119687009,
+      "label": "Salary",
+      "amount": 490,
+      "category": "salary",
+      "date": "2025-10-01"
+    },
+    {
+      "id": 1779119662042,
+      "label": "Salary",
+      "amount": 312,
+      "category": "salary",
+      "date": "2025-09-22"
+    },
+    {
+      "id": 1779119608821,
+      "label": "Salary",
+      "amount": 310,
+      "category": "salary",
+      "date": "2025-09-15"
+    },
+    {
+      "id": 1779119557892,
+      "label": "Salary",
+      "amount": 320,
+      "category": "salary",
+      "date": "2025-09-07"
+    },
+    {
+      "id": 1779119498116,
+      "label": "Salary",
+      "amount": 270,
+      "category": "salary",
+      "date": "2025-08-25"
+    },
+    {
+      "id": 1779119459019,
+      "label": "Salary",
+      "amount": 225,
+      "category": "salary",
+      "date": "2025-08-18"
+    },
+    {
+      "id": 1779119438997,
+      "label": "Salary",
+      "amount": 170,
+      "category": "salary",
+      "date": "2025-08-11"
+    },
+    {
+      "id": 1779119387165,
+      "label": "Freelance",
+      "amount": 20,
+      "category": "freelance",
+      "date": "2025-08-05"
+    },
+    {
+      "id": 1779119347538,
+      "label": "Salary",
+      "amount": 180,
+      "category": "salary",
+      "date": "2025-08-04"
+    },
+    {
+      "id": 1779119305871,
+      "label": "Salary",
+      "amount": 250,
+      "category": "salary",
+      "date": "2025-07-28"
+    },
+    {
+      "id": 1779119283187,
+      "label": "Salary",
+      "amount": 260,
+      "category": "salary",
+      "date": "2025-07-20"
+    },
+    {
+      "id": 1779119218238,
+      "label": "Salary",
+      "amount": 300,
+      "category": "salary",
+      "date": "2025-07-13"
+    },
+    {
+      "id": 1779119191829,
+      "label": "Salary",
+      "amount": 120,
+      "category": "salary",
+      "date": "2025-07-09"
+    },
+    {
+      "id": 1779119161880,
+      "label": "Salary",
+      "amount": 200,
+      "category": "salary",
+      "date": "2025-07-07"
+    },
+    {
+      "id": 1779119089430,
+      "label": "Salary",
+      "amount": 350,
+      "category": "salary",
+      "date": "2025-06-29"
+    },
+    {
+      "id": 1779119058034,
+      "label": "Salary",
+      "amount": 350,
+      "category": "salary",
+      "date": "2025-06-21"
+    },
+    {
+      "id": 1779118983068,
+      "label": "Salary",
+      "amount": 330,
+      "category": "salary",
+      "date": "2025-06-16"
+    },
+    {
+      "id": 1779118836386,
+      "label": "Salary",
+      "amount": 300,
+      "category": "salary",
+      "date": "2025-06-07"
+    },
+    {
+      "id": 1779118796817,
+      "label": "Salary",
+      "amount": 420,
+      "category": "salary",
+      "date": "2025-05-27"
+    },
+    {
+      "id": 1779377210981,
+      "label": "Salary",
+      "amount": 400,
+      "category": "salary",
+      "date": "2026-05-21"
+    },
+    {
+      "id": 1779377251449,
+      "label": "Worked at print shop",
+      "amount": 20,
+      "category": "other",
+      "date": "2026-05-21"
+    }
+  ],
+  "expenses": [],
+  "streak": 1,
+  "lastTracked": "2026-05-21",
+  "hours": [
+    {
+      "id": 1779672469129,
+      "date": "2026-05-24",
+      "project": "Restaurant",
+      "notes": "",
+      "duration": 332
+    },
+    {
+      "id": 1779625070489,
+      "date": "2026-05-24",
+      "project": "Restaurant",
+      "notes": "Sunday morning",
+      "duration": 107
+    },
+    {
+      "id": 1779586879062,
+      "date": "2026-05-24",
+      "project": "Restaurant",
+      "notes": "",
+      "duration": 288
+    },
+    {
+      "id": 1779564265378,
+      "date": "2026-05-22",
+      "project": "Restaurant",
+      "notes": "",
+      "duration": 720
+    },
+    {
+      "id": 1779563793077,
+      "date": "2026-05-23",
+      "project": "Restaurant",
+      "notes": "Got break will be back at 5",
+      "duration": 343
+    },
+    {
+      "id": 1779508372926,
+      "date": "2026-05-21",
+      "project": "Restaurant",
+      "notes": "",
+      "duration": 690
+    },
+    {
+      "id": 1779508276641,
+      "date": "2026-05-20",
+      "project": "Restaurant",
+      "notes": "",
+      "duration": 690
+    }
+  ],
+  "clockIn": null
+}
